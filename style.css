@@ -1,0 +1,52 @@
+.main{
+    background-color: rgb(200, 218, 123);
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.round {
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid green; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+    width: 200px;
+    height: 200px;
+   }
+
+   .citate{
+    width: 400px;
+    font-size: 20px;
+    
+   }
+
+   .links{
+    width: 400px;
+    font-size: 15px;
+    padding-bottom: 20px;
+
+    
+   }
+   .citName{
+    color: rgb(84, 141, 9);
+   }
+   .linksName{
+    color: rgb(84, 141, 9);
+    font-size: 20px;
+   }
+   .linksItem{
+    padding-top: 6px;
+    padding-left: 10px;
+   }
+
+
+   .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
